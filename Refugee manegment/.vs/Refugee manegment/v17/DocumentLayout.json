@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\data\\webdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\data\\webdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\sponsorships\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\sponsorships\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\sponsorships\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\sponsorships\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\sponsorships\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\sponsorships\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\sponsorships\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\sponsorships\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\sponsorships\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\sponsorships\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\refugees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\refugees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\healthrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\healthrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\healthrecords\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\healthrecords\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\healthrecords\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\healthrecords\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\healthrecords\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\healthrecords\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\healthrecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\healthrecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\employements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\employements\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\addresses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\addresses\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\addresses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\addresses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\controllers\\addressescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\addresses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\addresses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\addresses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\addresses\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\addresses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\addresses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\refugees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\refugees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\refugees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\refugees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\refugees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\refugees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\refugees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\refugees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\models\\sponsorship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\models\\sponsorship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\models\\refugee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\models\\refugee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\models\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\models\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\models\\employement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\models\\employement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\migrations\\20250104092303_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\migrations\\20250104092303_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\controllers\\refugeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\controllers\\refugeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\employements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\employements\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\controllers\\healthrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\controllers\\healthrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\controllers\\employementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\controllers\\employementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\wwwroot\\admin\\blank.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\wwwroot\\admin\\blank.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\wwwroot\\admin\\startbootstrap-sb-admin-2-gh-pages\\blank.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\wwwroot\\admin\\startbootstrap-sb-admin-2-gh-pages\\blank.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\employements\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\employements\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\employements\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\employements\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\views\\employements\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\views\\employements\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\controllers\\sponsorshipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\controllers\\sponsorshipscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\refugee manegment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\refugee manegment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|c:\\users\\pc\\source\\repos\\refugee manegment\\refugee manegment\\migrations\\20250108162812_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2D03CE-6741-4B1F-A135-C2C1AFB0E499}|Refugee manegment\\Refugee manegment.csproj|solutionrelative:refugee manegment\\migrations\\20250108162812_updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Models\\User.cs",
+              "RelativeToolTip": "Refugee manegment\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:42:34.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-09T08:25:12.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Refugee manegment\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:24:18.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T19:35:59.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Sponsorships\\Index.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Sponsorships\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Sponsorships\\Index.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Sponsorships\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:42:07.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Sponsorships\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Sponsorships\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Sponsorships\\Edit.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Sponsorships\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:42:01.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Sponsorships\\Details.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Sponsorships\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Sponsorships\\Details.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Sponsorships\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:41:57.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Sponsorships\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Sponsorships\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Sponsorships\\Delete.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Sponsorships\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:41:52.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Sponsorships\\Create.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Sponsorships\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Sponsorships\\Create.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Sponsorships\\Create.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:41:42.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\HealthRecords\\Index.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\HealthRecords\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\HealthRecords\\Index.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\HealthRecords\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:41:29.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\HealthRecords\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\HealthRecords\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\HealthRecords\\Edit.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\HealthRecords\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:41:20.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\HealthRecords\\Details.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\HealthRecords\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\HealthRecords\\Details.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\HealthRecords\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:41:16.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\HealthRecords\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\HealthRecords\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\HealthRecords\\Delete.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\HealthRecords\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:41:11.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\HealthRecords\\Create.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\HealthRecords\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\HealthRecords\\Create.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\HealthRecords\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:41:01.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250108162812_Updated.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Migrations\\20250108162812_Updated.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Migrations\\20250108162812_Updated.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Migrations\\20250108162812_Updated.cs",
+              "RelativeToolTip": "Refugee manegment\\Migrations\\20250108162812_Updated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:28:12.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Addresses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Addresses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Addresses\\Index.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Addresses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:11:23.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Addresses\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Addresses\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Addresses\\Edit.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Addresses\\Edit.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:11:21.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Addresses\\Details.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Addresses\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Addresses\\Details.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Addresses\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:11:20.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Addresses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Addresses\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Addresses\\Delete.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Addresses\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:11:18.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Addresses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Addresses\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Addresses\\Create.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Addresses\\Create.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T16:11:10.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Refugees\\Details.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Refugees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Refugees\\Details.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Refugees\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:41:15.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Refugees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Refugees\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Refugees\\Delete.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Refugees\\Delete.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:40:07.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Refugees\\Create.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Refugees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Refugees\\Create.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Refugees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T13:55:40.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RefugeesController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Controllers\\RefugeesController.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Controllers\\RefugeesController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Controllers\\RefugeesController.cs",
+              "RelativeToolTip": "Refugee manegment\\Controllers\\RefugeesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:48:51.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T13:23:12.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwFQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T17:11:36.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Refugees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Refugees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Refugees\\Index.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Refugees\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T13:56:58.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Refugees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Refugees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Refugees\\Edit.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Refugees\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-04T13:57:00.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T11:37:41.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HealthRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Controllers\\HealthRecordsController.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Controllers\\HealthRecordsController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Controllers\\HealthRecordsController.cs",
+              "RelativeToolTip": "Refugee manegment\\Controllers\\HealthRecordsController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:59:01.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Employements\\Index.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Employements\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Employements\\Index.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Employements\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T09:39:40.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T13:44:14.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\appsettings.json",
+              "RelativeDocumentMoniker": "Refugee manegment\\appsettings.json",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\appsettings.json",
+              "RelativeToolTip": "Refugee manegment\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T16:31:27.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddressesController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Controllers\\AddressesController.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Controllers\\AddressesController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Controllers\\AddressesController.cs",
+              "RelativeToolTip": "Refugee manegment\\Controllers\\AddressesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:52:00.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EmployementsController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Controllers\\EmployementsController.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Controllers\\EmployementsController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Controllers\\EmployementsController.cs",
+              "RelativeToolTip": "Refugee manegment\\Controllers\\EmployementsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:57:50.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Models\\Address.cs",
+              "RelativeToolTip": "Refugee manegment\\Models\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T22:44:44.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Sponsorship.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Models\\Sponsorship.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Models\\Sponsorship.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Models\\Sponsorship.cs",
+              "RelativeToolTip": "Refugee manegment\\Models\\Sponsorship.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T22:35:06.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Employements\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Employements\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Employements\\Edit.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Employements\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T09:40:40.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Employements\\Create.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Employements\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Employements\\Create.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Employements\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-05T11:30:09.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Refugee.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Models\\Refugee.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Models\\Refugee.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Models\\Refugee.cs",
+              "RelativeToolTip": "Refugee manegment\\Models\\Refugee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:04:52.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "blank.html",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\wwwroot\\Admin\\startbootstrap-sb-admin-2-gh-pages\\blank.html",
+              "RelativeDocumentMoniker": "Refugee manegment\\wwwroot\\Admin\\startbootstrap-sb-admin-2-gh-pages\\blank.html",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\wwwroot\\Admin\\startbootstrap-sb-admin-2-gh-pages\\blank.html",
+              "RelativeToolTip": "Refugee manegment\\wwwroot\\Admin\\startbootstrap-sb-admin-2-gh-pages\\blank.html",
+              "ViewState": "AgIAAIQBAAAAAAAAAAAQwIoBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-06T17:09:30.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "blank.html",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\wwwroot\\Admin\\blank.html",
+              "RelativeDocumentMoniker": "Refugee manegment\\wwwroot\\Admin\\blank.html",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\wwwroot\\Admin\\blank.html",
+              "RelativeToolTip": "Refugee manegment\\wwwroot\\Admin\\blank.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-07T13:51:39.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Employements\\Details.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Employements\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Employements\\Details.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Employements\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T09:40:49.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Employements\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Refugee manegment\\Views\\Employements\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Views\\Employements\\Delete.cshtml",
+              "RelativeToolTip": "Refugee manegment\\Views\\Employements\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T09:40:57.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HealthRecord.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Models\\HealthRecord.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Models\\HealthRecord.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Models\\HealthRecord.cs",
+              "RelativeToolTip": "Refugee manegment\\Models\\HealthRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T22:42:08.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "webDbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Data\\webDbcontext.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Data\\webDbcontext.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Data\\webDbcontext.cs",
+              "RelativeToolTip": "Refugee manegment\\Data\\webDbcontext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:26:26.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Program.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Program.cs",
+              "RelativeToolTip": "Refugee manegment\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:36:58.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Employement.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Models\\Employement.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Models\\Employement.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Models\\Employement.cs",
+              "RelativeToolTip": "Refugee manegment\\Models\\Employement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T22:43:16.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SponsorshipsController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Controllers\\SponsorshipsController.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Controllers\\SponsorshipsController.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Controllers\\SponsorshipsController.cs",
+              "RelativeToolTip": "Refugee manegment\\Controllers\\SponsorshipsController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T10:00:12.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250104092303_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Migrations\\20250104092303_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Refugee manegment\\Migrations\\20250104092303_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Migrations\\20250104092303_InitialCreate.cs",
+              "RelativeToolTip": "Refugee manegment\\Migrations\\20250104092303_InitialCreate.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T09:23:03.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Refugee manegment.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Refugee manegment.csproj",
+              "RelativeDocumentMoniker": "Refugee manegment\\Refugee manegment.csproj",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Refugee manegment\\Refugee manegment\\Refugee manegment.csproj",
+              "RelativeToolTip": "Refugee manegment\\Refugee manegment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T15:59:38.775Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
